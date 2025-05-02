@@ -25,7 +25,7 @@ export const contact = [
     id: 4,
     name: "LinkedIn",
     icon: FaLinkedinIn,
-    link: "https://www.linkedin.com/in/awirut-jiensakul-087149327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=IwY2xjawKBwudleHRuA2FlbQIxMABicmlkETFiOW5vaXBVWXI3dlE3ZXJqAR5YjrJ8xknmjSzYRaI2pxclrrByR_qdBncu3iGa43H8cgO38Q2Wh_mwfjzDIQ_aem_7h1QNRAZ7fZ1NTOmnDJLdw",
+    link: "https://www.linkedin.com/in/awirut-jiensakul-087149327/",
   },
 ];
 
